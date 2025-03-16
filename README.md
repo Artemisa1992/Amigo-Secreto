@@ -21,5 +21,5 @@ Você pode acessar a aplicação diretamente através do seguinte link:
 
 1. [**Clique aqui para abrir a aplicação Amigo Secreto**](https://artemisa1992.github.io/Amigo-Secreto/)
 
-2. Adicione os nomes dos participantes e clique no botão de sortear para realizar o Amigo Secreto.
+2. Adicione os nomes dos participantes e clique no botão de sortear amigo para verificar o nome do sorteado.
 

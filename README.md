@@ -21,11 +21,11 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/Artemisa1992/Amigo-Secreto---ONE.git
+    git clone https://github.com/Artemisa1992/Amigo-Secreto.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd Amigo-Secreto---ONE
+    cd Amigo-Secreto
     ```
 
 ## Uso
@@ -35,5 +35,5 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 ## Visualizar e Testar
 
-Você pode visualizar e testar o projeto online [aqui](https://artemisa1992.github.io/Amigo-Secreto---ONE/).
+Você pode visualizar e testar o projeto online [aqui](https://artemisa1992.github.io/Amigo-Secreto/).
 

@@ -1,6 +1,6 @@
 # Amigo Secreto
 ![Projeto](imagem.png)
-Este é um projeto simples de Amigo Secreto desenvolvido em HTML, CSS e JavaScript. O objetivo é permitir que os usuários adicionem nomes de amigos e sorteiem um amigo secreto de forma aleatória.
+Este é um projeto simples de Amigo Secreto desenvolvido em HTML, CSS e JavaScript. O objetivo é permitir que os usuários adicionem nomes de amigos e sorteiem um amigo secreto.
 
 ## Funcionalidades
 

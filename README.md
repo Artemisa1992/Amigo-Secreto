@@ -17,9 +17,7 @@ Este é um projeto simples de Amigo Secreto desenvolvido em HTML, CSS e JavaScri
 
 ## Acesso e Uso da Aplicação
 
-Você pode acessar a aplicação diretamente através do seguinte link:
-
-1. [**Clique aqui para abrir a aplicação Amigo Secreto**](https://artemisa1992.github.io/Amigo-Secreto/)
+1. [**Clique aqui e acesse o projeto online**](https://artemisa1992.github.io/Amigo-Secreto/)
 
 2.  **Adicione os nomes dos participantes**:
     - No campo de entrada, digite o nome de um participante e clique no botão "Adicionar".

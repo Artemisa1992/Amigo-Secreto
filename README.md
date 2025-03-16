@@ -23,7 +23,7 @@ Você pode acessar a aplicação diretamente através do seguinte link:
 
 2.  **Adicione os nomes dos participantes**:
     - No campo de entrada, digite o nome de um participante e clique no botão "Adicionar".
-    - Repita este passo até que todos os participantes tenham sido adicionados.
+    - Repita este passo até que todos os participantes tenham sido acrescentados.
 
 3. **Realize o sorteio**:
     - Após adicionar todos os nomes, clique no botão "Sortear amigo" para realizar o sorteio do Amigo Secreto.

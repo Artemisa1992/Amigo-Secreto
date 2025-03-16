@@ -15,3 +15,25 @@ Este é um projeto simples de Amigo Secreto desenvolvido em HTML, CSS e JavaScri
 - CSS
 - JavaScript
 
+## Instalação
+
+Para rodar este projeto localmente, siga os passos abaixo:
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/Artemisa1992/Amigo-Secreto---ONE.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd Amigo-Secreto---ONE
+    ```
+
+## Uso
+
+1. Abra o arquivo `index.html` no seu navegador de preferência.
+2. Adicione os nomes dos participantes e clique no botão de sortear para realizar o Amigo Secreto.
+
+## Visualizar e Testar
+
+Você pode visualizar e testar o projeto online [aqui](https://artemisa1992.github.io/Amigo-Secreto---ONE/).
+

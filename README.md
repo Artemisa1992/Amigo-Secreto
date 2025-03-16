@@ -30,10 +30,5 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 ## Uso
 
-1. Abra o arquivo `index.html` no seu navegador de preferência.
+1. Abra o arquivo `index.html` no seu navegador de preferência [aqui](https://artemisa1992.github.io/Amigo-Secreto/).
 2. Adicione os nomes dos participantes e clique no botão de sortear para realizar o Amigo Secreto.
-
-## Visualizar e Testar
-
-Você pode visualizar e testar o projeto online [aqui](https://artemisa1992.github.io/Amigo-Secreto/).
-

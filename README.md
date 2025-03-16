@@ -1,12 +1,6 @@
 # Amigo Secreto
-
+![Projeto](imagem.png)
 Este é um projeto simples de Amigo Secreto desenvolvido em HTML, CSS e JavaScript. O objetivo é permitir que os usuários adicionem nomes de amigos e sorteiem um amigo secreto de forma aleatória.
-## Vídeo Demonstrativo
-
-<video width="320" height="240" controls>
-  <source src="video.webm" type="video/webm">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
 
 ## Funcionalidades
 
@@ -39,3 +33,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 1. Abra o arquivo `index.html` no seu navegador de preferência [aqui](https://artemisa1992.github.io/Amigo-Secreto/).
 2. Adicione os nomes dos participantes e clique no botão de sortear para realizar o Amigo Secreto.
  
+
+## Visualizar e Testar
+
+Você pode visualizar e testar o projeto online [aqui](https://artemisa1992.github.io/Amigo-Secreto/).
